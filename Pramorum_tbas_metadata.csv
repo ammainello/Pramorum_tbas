@@ -1,0 +1,271 @@
+﻿Strain_name,Other_name,Phylum,Class,Order,Family,Genus,LociCount_old,Lineage,GeoLocNameCountryContinent,GeoLocNameCountry,GeoLocNameCountryRegion,YearCollected,HostDetailed,HostGeneral,SourcePub,accession_WGS_SRA,accession_avh120,accession_avh121,accession_btub,accession_gweuk,accession_hsp90,accession_trp1
+SOD136_11,SOD 136/11,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,United Kingdom,Northern Ireland,2011,Larix sp. ,Larix sp. ,delaMataSaez2015,PRJNA291998,,,,,,
+SOD158_11,SOD 158/11,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,United Kingdom,Northern Ireland,2011,Larix sp. ,Larix sp. ,delaMataSaez2015,PRJNA291989,,,,,,
+SOD169_11,SOD 169/11,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,United Kingdom,Northern Ireland,2011,Rhododendron sp.,Rhododendron sp.,delaMataSaez2015,PRJNA292002,,,,,,
+SOD22_12,SOD 22/12,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,United Kingdom,Northern Ireland,2012,Rhododendron sp.,Rhododendron sp.,delaMataSaez2015,PRJNA291995,,,,,,
+SOD58_12,SOD 58/12,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,United Kingdom,Northern Ireland,2012,Nothofagus sp.,Nothofagus sp.,delaMataSaez2015,PRJNA291990,,,,,,
+SOD69_12,SOD 69/12,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,United Kingdom,Northern Ireland,2012,Larix sp. ,Larix sp. ,delaMataSaez2015,PRJNA291992,,,,,,
+SODL51,SOD L51,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,United Kingdom,Northern Ireland,2010,Rhododendron sp.,Rhododendron sp.,delaMataSaez2015,PRJNA292010,,,,,,
+Pram_03_0002_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,Canada: BC,2003,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327051,,,,,,
+Pram_03_0107_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,Canada: BC,2003,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327050,,,,,,
+Pram_04_0002_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,Canada,Canada: BC,2004,Camellia sp.,Camellia sp.,Feau2019,SRR8327084,,,,,,
+Pram_04_17031_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,Canada: BC,2004,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327049,,,,,,
+Pram_04_20470_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,Canada: BC,2004,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327053,,,,,,
+Pram_04_2231_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,Canada,Canada: BC,2004,Camellia japonica,Camellia sp.,Feau2019,SRR8327087,,,,,,
+Pram_04_22572_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,Canada,Canada: BC,2004,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327086,,,,,,
+Pram_04_35009_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,Canada,Canada: BC,2004,Gaultheria sp.,Gaultheria sp.,Feau2019,SRR8327089,,,,,,
+Pram_04_38813_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,Canada: BC,2004,Viburnum tinus,Viburnum sp.,Feau2019,SRR8327029,,,,,,
+Pram_05_16845_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,Canada: BC,2005,Ardisia sp.,Ardisia sp.,Feau2019,SRR8327028,,,,,,
+Pram_05_9611_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,Canada: BC,2005,Viburnum sp.,Viburnum sp.,Feau2019,SRR8327031,,,,,,
+Pram_06_0012_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA2,North America,Canada,Canada: BC,2006,Soil sample,Environmental,Feau2019,SRR8327030,,,,,,
+Pram_06_4942_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,Canada: BC,2006,Distyllium Myricoides,Distyllium sp.,Feau2019,SRR8327025,,,,,,
+Pram_07_13013_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,Canada: BC,2007,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327048,,,,,,
+Pram_07_17204_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,Canada: BC,2007,Gaultheria sp.,Gaultheria sp.,Feau2019,SRR8327024,,,,,,
+Pram_07_46063_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, South-east Vancouver Island",2007,unknown,unknown,Feau2019,SRR17285091,,,,,,
+Pram_08_0688_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,Canada: BC,2008,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327027,,,,,,
+Pram_08_2933_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,Canada: BC,2008,Pieris japonica,Pieris sp.,Feau2019,SRR8327047,,,,,,
+Pram_09_4390_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,Canada: BC,2009,Camellia sp.,Camellia sp.,Feau2019,SRR8327026,,,,,,
+Pram_09_4415_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,Canada: BC,2009,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327023,,,,,,
+Pram_10_3885_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,Canada: BC,2010,Leucothoe fontanesiana,Leucothoe sp.,Feau2019,SRR8327022,,,,,,
+Pram_10_4389a_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,Canada: BC,2010,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327094,,,,,,
+Pram_10_5341b_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,Canada: BC,2010,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327046,,,,,,
+Pram_10_6342a_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,Canada,Canada: BC,2010,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327088,,,,,,
+Pram_11_1291_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,Canada: BC,2011,unknown,unknown,Feau2019,SRR8327095,,,,,,
+Pram_11_263_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,Canada,Canada: BC,2011,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327091,,,,,,
+Pram_11_301_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,Canada: BC,2011,unknown,unknown,Feau2019,SRR8327045,,,,,,
+Pram_132_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,France,France,2006,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327044,,,,,,
+Pram_24_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,France,France,2002,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327043,,,,,,
+Pram_30_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,France,France,2003,Viburnum tinus,Viburnum sp.,Feau2019,SRR8327042,,,,,,
+Pram_33_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,France,France,2003,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327037,,,,,,
+Pram_4_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,France,France,2002,Viburnum tinus,Viburnum sp.,Feau2019,SRR8327036,,,,,,
+Pram_62_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,France,France,2004,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327039,,,,,,
+Pram_73_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,France,France,2005,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327038,,,,,,
+Pram_BBA_14_98_a_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,Germany,Germany,1998,Rhododendron catawbiense,Rhododendron sp.,Feau2019,SRR8327033,,,,,,
+Pram_BBA_26_02_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,Belgium,Belgium,2002,Viburnum sp.,Viburnum sp.,Feau2019,SRR8327032,,,,,,
+Pram_BBA_9_95_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,Germany,Germany,1995,Rhododendron catawbiense,Rhododendron sp.,Feau2019,SRR8327035,,,,,,
+Pram_CSL_1620_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,unknown,Viburnum sp.,Viburnum sp.,Feau2019,SRR8327034,,,,,,
+Pram_P1549_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2003,Fagus sylvatica,Fagus sp.,Feau2019,SRR8327041,,,,,,
+Pram_P1559_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2003,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327040,,,,,,
+Pram_P1562_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2003,Quercus cerris,Quercus sp.,Feau2019,SRR8327014,,,,,,
+Pram_P1563_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2003,Castanea sativa,Castanea sp.,Feau2019,SRR8327015,,,,,,
+Pram_P1614_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2004,Nothofagus sp.,Nothofagus sp.,Feau2019,SRR8327016,,,,,,
+Pram_P1856_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2004,Acer platanoides,Acer sp.,Feau2019,SRR8327017,,,,,,
+Pram_P1898_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2005,Fagus sylvatica,Fagus sp.,Feau2019,SRR8327018,,,,,,
+Pram_P1959_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2005,Quercus cerris,Quercus sp.,Feau2019,SRR8327019,,,,,,
+Pram_P2098_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2007,Cinnamomum camphora,Cinnamomum sp.,Feau2019,SRR8327020,,,,,,
+Pram_P2111_EU2,P2111; PR_12_035,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,Ireland,Ireland,2007,Quercus robur,Quercus sp.,Feau2019,SRR8327107,,,,,,
+Pram_P2460_EU2,P2460; PR_12_036,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,Ireland,Ireland,2010,Larix kaempferi,Larix sp.,Feau2019,SRR8327104,,,,,,
+Pram_P2461_EU2,P2461; PR_12_037,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,Ireland,Ireland,2010,Larix kaempferi,Larix sp.,Feau2019,SRR8327105,,,,,,
+Pram_P2561_EU2,P2561; PR_12_038,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,United Kingdom,United Kingdom: Scotland,2011,Larix kaempferi,Larix sp.,Feau2019,SRR8327098,,,,,,
+Pram_P2566_EU2,P2566; PR_12_039,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,Ireland,Ireland,2011,Rhododendron ponticum,Rhododendron sp.,Feau2019,SRR8327099,,,,,,
+Pram_P2586_EU2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,United Kingdom,United Kingdom: Scotland,2011,Larix kaempferi,Larix sp.,Feau2019,SRR8327085,,,,,,
+Pram_P2599_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2011,Larix kaempferi,Larix sp.,Feau2019,SRR8327021,,,,,,
+Pram_P2600_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2011,Larix kaempferi,Larix sp.,Feau2019,SRR8327012,,,,,,
+Pram_P2633_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2009,Larix kaempferi,Larix sp.,Feau2019,SRR8327013,,,,,,
+Pram_P2673_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2009,Larix kaempferi,Larix sp.,Feau2019,SRR8327117,,,,,,
+Pram_P2677_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2009,Larix kaempferi,Larix sp.,Feau2019,SRR8327116,,,,,,
+Pram_P2687_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2009,Larix kaempferi,Larix sp.,Feau2019,SRR8327115,,,,,,
+Pram_P2688_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2009,Larix kaempferi,Larix sp.,Feau2019,SRR8327114,,,,,,
+Pram_P2707_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2009,Larix kaempferi,Larix sp.,Feau2019,SRR8327113,,,,,,
+Pram_P2738_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2009,Larix kaempferi,Larix sp.,Feau2019,SRR8327112,,,,,,
+Pram_PD_98_8_6743_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,Netherlands,Netherlands,1998,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327111,,,,,,
+Pram_PR_01_004_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: OR,2001,Notholithocarpus densiflorus,Notholithocarpus sp.,Feau2019,SRR8327090,,,,,,
+Pram_PR_01_018_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,Germany,Germany,2001,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327110,,,,,,
+Pram_PR_04_015_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,United States,USA: WA,2004,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327096,,,,,,
+Pram_PR_05_055_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: OR,2002,unknown,unknown,Feau2019,SRR8327083,,,,,,
+Pram_PR_05_166_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,United States,USA: WA,2004,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327097,,,,,,
+Pram_PR_06_016_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: OR,2006,Camellia japonica,Camellia sp.,Feau2019,SRR8327082,,,,,,
+Pram_PR_06_028_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,United States,USA: CA,2006,Osmanthus heterophyllus,Osmanthus sp.,Feau2019,SRR8327109,,,,,,
+Pram_PR_07_048_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: WA,2005,Soil sample,Environmental,Feau2019,SRR8327078,,,,,,
+Pram_PR_07_066_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: WA,2007,unknown,unknown,Feau2019,SRR8327079,,,,,,
+Pram_PR_07_101_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2007,Camellia japonica,Camellia sp.,Feau2019,SRR8327080,,,,,,
+Pram_PR_07_121_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2004,unknown,unknown,Feau2019,SRR8327081,,,,,,
+Pram_PR_07_135_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: GA,2004,Camellia sasanqua,Camellia sp.,Feau2019,SRR8327074,,,,,,
+Pram_PR_07_191_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: WA,2004,Camellia sp.,Camellia sp.,Feau2019,SRR8327075,,,,,,
+Pram_PR_07_192_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: WA,2004,unknown,unknown,Feau2019,SRR8327076,,,,,,
+Pram_PR_08_028_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2002,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327108,,,,,,
+Pram_PR_08_034_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom,2002,Viburnum tinus,Viburnum sp.,Feau2019,SRR8327102,,,,,,
+Pram_PR_08_134_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: NC,2008,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327077,,,,,,
+Pram_PR_09_002_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: SC,2009,Rhododendron catawbiense,Rhododendron sp.,Feau2019,SRR8327072,,,,,,
+Pram_PR_09_054_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,United States,USA: CA,unknown,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327092,,,,,,
+Pram_PR_09_065_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: MS,2009,water,Environmental,Feau2019,SRR8327073,,,,,,
+Pram_PR_09_094_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: GA,unknown,unknown,unknown,Feau2019,SRR8327065,,,,,,
+Pram_PR_09_106_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,United States,USA: OR,2009,Pieris japonica,Pieris sp.,Feau2019,SRR8327103,,,,,,
+Pram_PR_09_126_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: SC,2009,Rhododendron catawbiense,Rhododendron sp.,Feau2019,SRR8327064,,,,,,
+Pram_PR_09_150_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,United States,USA: OR,2009,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327100,,,,,,
+Pram_PR_09_167_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: GA,2005,Kalmia latifolia,Kalmia sp.,Feau2019,SRR8327063,,,,,,
+Pram_PR_09_175_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: GA,2005,Camellia japonica,Camellia sp.,Feau2019,SRR8327062,,,,,,
+Pram_PR_10_076_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: SC,2010,Soil sample,Environmental,Feau2019,SRR8327069,,,,,,
+Pram_PR_10_098_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: SC,2010,Kalmia latifolia,Kalmia sp.,Feau2019,SRR8327068,,,,,,
+Pram_PR_10_103_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: SC,2010,Kalmia latifolia,Kalmia sp.,Feau2019,SRR8327067,,,,,,
+Pram_PR_10_120_NA2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,United States,USA: CA,2010,Camellia japonica,Camellia sp.,Feau2019,SRR8327093,,,,,,
+Pram_PR_10_145_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,United States,USA: OR,2010,Rhododendron sp.,Rhododendron sp.,Feau2019,SRR8327101,,,,,,
+Pram_PR_11_001_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: OR,2006,Notholithocarpus densiflorus,Notholithocarpus sp.,Feau2019,SRR8327071,,,,,,
+Pram_PR_11_004_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: OR,2011,Notholithocarpus densiflorus,Notholithocarpus sp.,Feau2019,SRR8327070,,,,,,
+Pram_PR_11_009_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2011,Umbellularia californica,Umbellularia sp.,Feau2019,SRR8327060,,,,,,
+Pram_PR_11_010_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2011,Camellia japonica,Camellia sp.,Feau2019,SRR8327061,,,,,,
+Pram_PR_11_011_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2011,Pieris sp.,Pieris sp.,Feau2019,SRR8327058,,,,,,
+Pram_PR_11_018_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2011,Laurus nobilis,Laurus sp.,Feau2019,SRR8327059,,,,,,
+Pram_PR_11_020_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2011,Molinadendron sinaloense,Molinadendron sp.,Feau2019,SRR8327056,,,,,,
+Pram_PR_11_024_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2011,Cinnamomum camphora,Cinnamomum sp.,Feau2019,SRR8327057,,,,,,
+Pram_Pr_1546_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2012,Quercus agrifolia,Quercus sp.,Feau2019,SRR8327054,,,,,,
+Pram_Pr_420_NA1,Pram_Pr420_NA1,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2004,Quercus agrifolia,Quercus sp.,Feau2019,SRR8327055,,,,,,
+Pram_Pr_518_NA1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2009,Quercus agrifolia,Quercus sp.,Feau2019,SRR8327052,,,,,,
+Pram_PR_99_002_EU1,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,Germany,Germany,1999,Viburnum sp.,Viburnum sp.,Feau2019,SRR8327106,,,,,,
+PR_01_003,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA1,North America,United States,USA: OR,2001,unknown,unknown,Goss2009,,EU850888.1,EU850916.1,EU850952.1,EU851016.1,,EU850988.1
+PR_01_004,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA1,North America,United States,USA: OR,2001,unknown,unknown,Goss2009,,EU850887.1,EU850915.1,EU850951.1,EU851015.1,,EU850987.1
+PR_01_023,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,EU1,Europe,Germany,Germany,2001,unknown,unknown,Goss2009,,EU850877.1,EU850905.1,EU850941.1,EU851005.1,,EU850977.1
+PR_01_024,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,EU1,Europe,Germany,Germany,2001,unknown,unknown,Goss2009,,EU850879.1,EU850907.1,EU850943.1,EU851007.1,,EU850979.1
+PR_02_010,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,EU1,Europe,France,France,2002,unknown,unknown,Goss2009,,EU850878.1,EU850906.1,EU850942.1,EU851006.1,,EU850978.1
+PR_04_001,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA1,North America,United States,USA: OR,2001,unknown,unknown,Goss2009,,EU850892.1,EU850920.1,EU850956.1,EU851020.1,,EU850992.1
+PR_04_002,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,EU1,North America,United States,USA: OR,2003,unknown,unknown,Goss2009,,EU850875.1,EU850903.1,EU850939.1,EU851003.1,,EU850975.1
+PR_04_004,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA1,North America,United States,USA: CA,unknown,unknown,unknown,Goss2009,,EU850883.1,EU850911.1,EU850947.1,EU851011.1,,EU850983.1
+PR_04_007,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA1,North America,United States,USA: OR,2004,unknown,unknown,Goss2009,,EU850882.1,EU850910.1,EU850946.1,EU851010.1,,EU850982.1
+PR_04_015,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA2,North America,United States,USA: WA,2004,unknown,unknown,Goss2009,,EU850893.1,EU850921.1,EU850957.1,EU851021.1,,EU850993.1
+PR_05_012,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,EU1,Europe,Germany,Germany,1995,unknown,unknown,Goss2009,,EU850876.1,EU850904.1,EU850940.1,EU851004.1,,EU850976.1
+PR_05_014,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,EU1,Europe,United Kingdom,United Kingdom,unknown,unknown,unknown,Goss2009,,EU850880.1,EU850908.1,EU850944.1,EU851008.1,,EU850980.1
+PR_05_017,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA1,North America,United States,USA: OR,2003,unknown,unknown,Goss2009,,EU850889.1,EU850917.1,EU850953.1,EU851017.1,,EU850989.1
+PR_05_019,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA1,North America,United States,USA: WA,2004,unknown,unknown,Goss2009,,EU850885.1,EU850913.1,EU850949.1,EU851013.1,,EU850985.1
+PR_05_025,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA1,North America,United States,USA: WA,2004,unknown,unknown,Goss2009,,EU850886.1,EU850914.1,EU850950.1,EU851014.1,,EU850986.1
+PR_05_041,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA1,North America,United States,USA: OR,2003,unknown,unknown,Goss2009,,EU850890.1,EU850918.1,EU850954.1,EU851018.1,,EU850990.1
+PR_05_055,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA1,North America,United States,USA: OR,2002,unknown,unknown,Goss2009,,EU850891.1,EU850919.1,EU850955.1,EU851019.1,,EU850991.1
+PR_05_153,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA2,North America,United States,USA: CA,2005,unknown,unknown,Goss2009,,EU850894.1,EU850922.1,EU850958.1,EU851022.1,,EU850994.1
+PR_05_166,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA2,North America,United States,USA: WA,2004,unknown,unknown,Goss2009,,EU850895.1,EU850923.1,EU850959.1,EU851023.1,,EU850995.1
+PR_06_002,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA1,North America,United States,USA: OR,2004,unknown,unknown,Goss2009,,EU850881.1,EU850909.1,EU850945.1,EU851009.1,,EU850981.1
+PR_0X_004,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA1,North America,United States,USA: CA,unknown,unknown,unknown,Goss2009,,EU850884.1,EU850912.1,EU850948.1,EU851012.1,,EU850984.1
+03_0110,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, Metro Vancouver",2003,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285147,,,,,,
+04_0372,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,Canada,"Canada: BC, Metro Vancouver",2004,Camellia japonica,Camellia sp.,Hamelin2022,SRR17285146,,,,,,
+04_22572,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,Canada,"Canada: BC, South-east Vancouver Island",2004,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285135,,,,,,
+04_25165,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2004,Kalmia sp.,Kalmia sp.,Hamelin2022,SRR17285113,,,,,,
+05_17017,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2005,Camellia sp.,Camellia sp.,Hamelin2022,SRR17285104,,,,,,
+05_7036,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, Metro Vancouver",2005,Viburnum sp.,Viburnum sp. ,Hamelin2022,SRR17285102,,,,,,
+06_31651,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2006,Gaultheria sp.,Gaultheria sp.,Hamelin2022,SRR17285101,,,,,,
+06_38025,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Sunshine Coast",2006,not applicable,,Hamelin2022,SRR17285100,,,,,,
+06_4966,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2006,Distylium myricoides,Distyllium sp.,Hamelin2022,SRR17285145,,,,,,
+06_7401,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2006,Viburnum x bodnantense,Viburnum sp. ,Hamelin2022,SRR17285144,,,,,,
+06_7425,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2006,Viburnum x bodnantense,Viburnum sp. ,Hamelin2022,SRR17285142,,,,,,
+06_7608,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2006,Viburnum x bodnantense,Viburnum sp. ,Hamelin2022,SRR17285141,,,,,,
+06_7616,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2006,Viburnum x bodnantense,Viburnum sp. ,Hamelin2022,SRR17285140,,,,,,
+07_00005,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2007,not applicable,,Hamelin2022,SRR17285139,,,,,,
+07_10199,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2007,Pieris sp.,Pieris sp.,Hamelin2022,SRR17285137,,,,,,
+07_17197,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2007,Gaultheria sp.,Gaultheria sp.,Hamelin2022,SRR17285136,,,,,,
+07_17206,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2007,Gaultheria sp.,Gaultheria sp.,Hamelin2022,SRR17285134,,,,,,
+08_3469,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, Fraser Valley",2008,Viburnum x bodnantense,Viburnum sp. ,Hamelin2022,SRR17285133,,,,,,
+11_0795,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2011,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285132,,,,,,
+13_0781,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2013,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285131,,,,,,
+14_0064,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2014,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285130,,,,,,
+14_1270,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, Metro Vancouver",2014,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285128,,,,,,
+14_1320,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, Metro Vancouver",2014,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285127,,,,,,
+14_1613,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2014,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285126,,,,,,
+15_0061,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2015,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285125,,,,,,
+15_0127,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, Fraser Valley",2015,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285123,,,,,,
+15_0242,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, Metro Vancouver",2015,Viburnum tinus,Viburnum sp.,Hamelin2022,SRR17285122,,,,,,
+15_0413,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, Metro Vancouver",2015,Viburnum davidii,Viburnum sp. ,Hamelin2022,SRR17285121,,,,,,
+15_0674,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, Metro Vancouver",2015,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285119,,,,,,
+15_0954,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2015,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285118,,,,,,
+15_1093,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, Metro Vancouver",2015,Magnolia grandiflora,Magnolia sp.,Hamelin2022,SRR17285117,,,,,,
+16_0201_0022,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2016,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285115,,,,,,
+16_0245_0019,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, Metro Vancouver",2016,Pieris japonica,Pieris sp.,Hamelin2022,SRR17285114,,,,,,
+16_0329_0026,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, Metro Vancouver",2016,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285112,,,,,,
+16_0386_0016,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2016,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285111,,,,,,
+17_0134_0030,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2017,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285110,,,,,,
+17_0682_0004,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2017,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285108,,,,,,
+21_FOP04_169,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2010,Umbellularia californica,Umbellularia sp.,Hamelin2022,SRR9952923,,,,,,
+BS2014_550,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2014,Umbellularia californica,Umbellularia sp.,Hamelin2022,SRR9952913,,,,,,
+BS2016_10,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2016,Umbellularia californica,Umbellularia sp.,Hamelin2022,SRR9883268,,,,,,
+HMG2017_2,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2017,Umbellularia californica,Umbellularia sp.,Hamelin2022,SRR9883263,,,,,,
+MK548,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2008,Umbellularia californica,Umbellularia sp.,Hamelin2022,SRR9883250,,,,,,
+MK649a,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2008,Umbellularia californica,Umbellularia sp.,Hamelin2022,SRR9883251,,,,,,
+MK79j,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2008,Umbellularia californica,Umbellularia sp.,Hamelin2022,SRR9883249,,,,,,
+Phra1_7964,PRAM_16_0237_0021,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1xNA2,North America,Canada,Canada: BC,2016,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285106,,,,,,
+Phra2_7974,PRAM_16_0284_0032,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1xNA2,North America,Canada,Canada: BC,2016,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285105,,,,,,
+Pr102,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,NA1,North America,United States,USA: CA,2001,Quercus,Quercus sp.,Hamelin2022,SRR9883238,,,,,,
+Pr1537,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2012,Abies grandis,Abies sp.,Hamelin2022,SRR9883244,,,,,,
+Pr1652,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2014,stream,Environmental,Hamelin2022,SRR9883278,,,,,,
+Pr218,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2002,Frangula californica,Frangula sp. ,Hamelin2022,SRR9883235,,,,,,
+Pr451,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2004,Sequoia sempervirens,Sequoia sp.,Hamelin2022,SRR9883255,,,,,,
+Pr745,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2010,rainwater,environmental,Hamelin2022,SRR9883232,,,,,,
+Pr93,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,2001,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR9883239,,,,,,
+PRAM_04_22579,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,Canada,"Canada: BC, South-east Vancouver Island",2004,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285124,,,,,,
+PRAM_05_18753,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2005,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285103,,,,,,
+PRAM_06_7419,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2006,Viburnum x bodnantense,Viburnum sp. ,Hamelin2022,SRR17285143,,,,,,
+PRAM_07_0718,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2007,Pieris sp.,Pieris sp.,Hamelin2022,SRR17285138,,,,,,
+PRAM_14_0074,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2014,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285129,,,,,,
+PRAM_15_0509,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,Canada,"Canada: BC, Metro Vancouver",2015,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285120,,,,,,
+PRAM_15_1796,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, South-east Vancouver Island",2015,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285116,,,,,,
+PRAM_17_0527_0003,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,North America,Canada,"Canada: BC, Metro Vancouver",2017,Rhododendron sp.,Rhododendron sp.,Hamelin2022,SRR17285109,,,,,,
+JP1202,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NP1,Asia,Japan,Japan,2017-2018,Laurosilva forest dominated by Quercus spp. and Neolitsea sericea; also Camelia japonica,Laurosilva forest,Jung2021,,MW323751,MW323787,MW323679,MW323615,MW323715,MW323579
+JP236,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NP1,Asia,Japan,Japan,2017-2018,"Laurosilva forests dominated by Q. salicina, Q. sessilifolia, A. firma, C. obtusa and T. sieboldii",Laurosilva forest,Jung2021,,MW323745,MW323781,MW323673,MW323609,MW323709,MW323573
+JP387,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NP2,Asia,Japan,Japan,2017-2018,Laurosilva forest dominated by Lithocarpus edulis and Castanopsis sieboldii,Laurosilva forest,Jung2021,,MW323746,MW323782,MW323674,MW323610,MW323710,MW323574
+JP462,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NP2,Asia,Japan,Japan,2017-2018,Laurosilva forest dominated by Lithocarpus edulis and Castanopsis sieboldii,Laurosilva forest,Jung2021,,MW323747,MW323783,MW323675,MW323611,MW323711,MW323575
+JP716,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NP1,Asia,Japan,Japan,2017-2018,"Laurosilva forests dominated by Q. salicina, Q. sessilifolia, A. firma, C. obtusa and T. sieboldii",Laurosilva forest,Jung2021,,MW323748,MW323784,MW323676,MW323612,MW323712,MW323576
+JP916,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NP1,Asia,Japan,Japan,2017-2018,"Laurosilva forests dominated by Q. salicina, Q. sessilifolia, A. firma, C. obtusa and T. sieboldii",Laurosilva forest,Jung2021,,MW323749,MW323785,MW323677,MW323613,MW323713,MW323577
+JP975,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NP3,Asia,Japan,Japan,2017-2018,Laurosilva forest dominated by Quercus spp. and Neolitsea sericea; also Camelia japonica,Laurosilva forest,Jung2021,,MW323750,MW323786,MW323678,MW323614,MW323714,MW323578
+P_hibernalis_BL41G,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,unknown,unknown,unknown,unknown,unknown,unknown,unknown,Jung2021,,contig 345,contig 49,contig 227,contig 10,contig 121,contig 33
+P_lateralis_P2451,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,unknown,Europe,United Kingdom,unknown,unknown,Chamaecyparis lawsoniana,Chamaecyparis sp.,Jung2021,,MW323780,MW323815,MW323708,MW323644,MW323744,MW323608
+P1367,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,unknown,unknown,unknown,unknown,Viburnum bodnantense,Viburnum sp. ,Jung2021,,MW323768,MW323804,MW323696,MW323632,MW323732,MW323596
+P1376,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom: England,2002,Viburnum tinus ,Viburnum sp. ,Jung2021,,MW323769,MW323805,MW323697,MW323633,MW323733,MW323597
+P1403,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: OR,2000,Vaccinium ovatum ,Vaccinium sp. ,Jung2021,,MW323774,MW323809,MW323702,MW323638,MW323738,MW323602
+P1421,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,North America,United States,USA: CA,unknown,Rhododendron spp. ,Rhododendron sp. ,Jung2021,,MW323775,MW323810,MW323703,MW323639,MW323739,MW323603
+P1496,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA1,unknown,unknown,unknown,unknown,unknown,unknown,Jung2021,,MW323776,MW323811,MW323704,MW323640,MW323740,MW323604
+P1578,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,EU1,Europe,United Kingdom,United Kingdom,2002,Rhododendron catawbiense,Rhododendron sp.,Jung2021,,MW323770,,MW323698,MW323634,MW323734,MW323598
+P2056,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,United States,USA: OR,unknown,unknown,unknown,Jung2021,,MW323777,MW323812,MW323705,MW323641,MW323741,MW323605
+P2057,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,United States,USA: WA,unknown,unknown,unknown,Jung2021,,MW323778,MW323813,MW323706,MW323642,MW323742,MW323606
+P2058,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,NA2,North America,United States,USA: CA,2005,Rhododendron spp. ,Rhododendron sp. ,Jung2021,,MW323779,MW323814,MW323707,MW323643,MW323743,MW323607
+P2460,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,United Kingdom,United Kingdom: Northern Ireland,2010,Larix kaempferi ,Larix sp.,Jung2021,,MW323771,MW323806,MW323699,MW323635,MW323735,MW323599
+P2461,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,United Kingdom,United Kingdom: Northern Ireland,2010,Larix sp. ,Larix sp.,Jung2021,,MW323772,MW323807,MW323700,MW323636,MW323736,MW323600
+P2462,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU2,Europe,United Kingdom,United Kingdom: Northern Ireland,2010,Larix sp. ,Larix sp.,Jung2021,,MW323773,MW323808,MW323701,MW323637,MW323737,MW323601
+VN057,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC1,Asia,Vietnam,Vietnam,2016-2017,"Montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Montane forest,Jung2021,,MW323752,MW323788,MW323680,MW323616,MW323731,MW323580
+VN088,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC3,Asia,Vietnam,Vietnam,2016-2017,"Montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Montane forest,Jung2021,,MW323753,MW323789,MW323681,MW323617,MW323718,MW323581
+VN1015,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC1,Asia,Vietnam,Vietnam,2016-2017,"Montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Montane forest,Jung2021,,MW323767,MW323803,MW323695,MW323631,MW323719,MW323595
+VN142,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC2,Asia,Vietnam,Vietnam,2016-2017,"Montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Montane forest,Jung2021,,MW323754,MW323790,MW323682,MW323618,MW323720,MW323582
+VN150,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC2,Asia,Vietnam,Vietnam,2016-2017,"Montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Montane forest,Jung2021,,MW323755,MW323791,MW323683,MW323619,MW323721,MW323583
+VN160,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC1,Asia,Vietnam,Vietnam,2016-2017,"Subalpine and montane Rhododendron scrub and forests, montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Subalpine and montane forest,Jung2021,,MW323756,MW323792,MW323684,MW323620,MW323722,MW323584
+VN169,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC2,Asia,Vietnam,Vietnam,2016-2017,"Montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Montane forest,Jung2021,,MW323757,MW323793,MW323685,MW323621,MW323723,MW323585
+VN283,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC1,Asia,Vietnam,Vietnam,2016-2017,"Subalpine and montane Rhododendron scrub and forests, montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Subalpine and montane forest,Jung2021,,MW323758,MW323794,MW323686,MW323622,MW323724,MW323586
+VN313,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC1,Asia,Vietnam,Vietnam,2016-2017,"Montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Montane forest,Jung2021,,MW323759,MW323795,MW323687,MW323623,MW323716,MW323587
+VN314,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC2,Asia,Vietnam,Vietnam,2016-2017,"Montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Montane forest,Jung2021,,MW323760,MW323796,MW323688,MW323624,MW323725,MW323588
+VN831,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC1,Asia,Vietnam,Vietnam,2016-2017,"Montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Montane forest,Jung2021,,MW323761,MW323797,MW323689,MW323625,MW323726,MW323589
+VN833,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC1,Asia,Vietnam,Vietnam,2016-2017,"Subalpine and montane Rhododendron scrub and forests, montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Subalpine and montane forest,Jung2021,,MW323762,MW323798,MW323690,MW323626,MW323727,MW323590
+VN851,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC4,Asia,Vietnam,Vietnam,2016-2017,"Montane diverse laurosilva forest with Chamaecyparis hodginsii, Cunninghamia lanceolata plantations",Montane forest,Jung2021,,MW323763,MW323799,MW323691,MW323627,MW323728,MW323591
+VN852,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC1,Asia,Vietnam,Vietnam,2016-2017,"Montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Montane forest,Jung2021,,MW323764,MW323800,MW323692,MW323628,MW323729,MW323592
+VN863,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC5,Asia,Vietnam,Vietnam,2016-2017,"Subalpine and montane Rhododendron scrub and forests, montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Subalpine and montane forest,Jung2021,,MW323765,MW323801,MW323693,MW323629,MW323730,MW323593
+VN866,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,IC1,Asia,Vietnam,Vietnam,2016-2017,"Subalpine and montane Rhododendron scrub and forests, montane diverse laurosilva forests dominated by Castanopsis spp., Quercus spp. and Neolitsea spp.",Subalpine and montane forest,Jung2021,,MW323766,MW323802,MW323694,MW323630,MW323717,MW323594
+CC1008,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom: England,2002,Rhododendron sp.,Rhododendron sp.,Turner2017,SRX2190141,,,,,,
+CC1011,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,5,EU1,Europe,United Kingdom,United Kingdom: England,2002,Rhododendron sp.,Rhododendron sp.,Turner2017,SRX202260,,,,,,
+CC1033,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom: England,2002,Viburnum sp.,Viburnum sp.,Turner2017,SRX2190142,,,,,,
+CC1048,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom: England,2002,Viburnum sp.,Viburnum sp.,Turner2017,SRX202261,,,,,,
+CC12475,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom: England,2007,Soil,Environmental,Turner2017,SRX202256,,,,,,
+CC14654,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom: England,2009,Leaf detritus,Leaf detritus,Turner2017,SRX202259,,,,,,
+CC2168,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom: England,2009,Camellia sp.,Camellia sp.,Turner2017,SRX2190143,,,,,,
+CC2176,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom: England,2009,Pieris sp.,Pieris sp.,Turner2017,SRX2190144,,,,,,
+CC2184,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom: England,2004,Taxus sp.,Taxus sp.,Turner2017,SRX202257,,,,,,
+CC2186,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom: England,2009,Rhododendron sp.,Rhododendron sp.,Turner2017,SRX2190145,,,,,,
+CC2187,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom: England,2009,Rhododendron sp.,Rhododendron sp.,Turner2017,SRX2190146,,,,,,
+CC2275,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,6,EU1,Europe,United Kingdom,United Kingdom: England,2004,Laurus nobilis,Laurus sp.,Turner2017,SRX202258,,,,,,
+IRE_100,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Ireland,Ireland,2010,Rhododendron sp.,Rhododendron sp.,,,,,,,,
+IRE_105,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Ireland,Ireland,2011,Rhododendron sp.,Rhododendron sp.,,,,,,,,
+IRE_106,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Ireland,Ireland,2011,Larix sp. ,Larix sp.,,,,,,,,
+IRE_107,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Ireland,Ireland,2011,Larix sp. ,Larix sp.,,,,,,,,
+IRE_110,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU2,Europe,United Kingdom,United Kingdom: Northern Ireland,2011,Larix sp. ,Larix sp. ,,,,,,,,
+IRE_118,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Ireland,Ireland,2012,Larix sp. ,Larix sp.,,,,,,,,
+IRE_121,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU2,Europe,United Kingdom,United Kingdom: Northern Ireland,2012,Rhododendron sp.,Rhododendron sp.,,,,,,,,
+IRE_125,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU2,Europe,United Kingdom,United Kingdom: Northern Ireland,2012,Rhododendron sp.,Rhododendron sp.,,,,,,,,
+IRE_129,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU2,Europe,United Kingdom,United Kingdom: Northern Ireland,2012,Larix sp. ,Larix sp. ,,,,,,,,
+IRE_133,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,United Kingdom,United Kingdom: Northern Ireland,2012,Abies sp.,Abies sp.,,,,,,,,
+IRE_134,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU2,Europe,United Kingdom,United Kingdom: Northern Ireland,2012,Larix sp. ,Larix sp. ,,,,,,,,
+IRE_14,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Ireland,Ireland,2014,Larix sp. ,Larix sp.,,,,,,,,
+IRE_27,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Ireland,Ireland,2014,Larix sp. ,Larix sp.,,,,,,,,
+IRE_28,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Ireland,Ireland,2014,Larix sp. ,Larix sp.,,,,,,,,
+IRE_63,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Europe,Ireland,2005,Rhododendron sp.,Rhododendron sp.,,,,,,,,
+IRE_65,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Europe,Ireland,2006,Rhododendron sp.,Rhododendron sp.,,,,,,,,
+IRE_67,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Europe,Ireland,2006,Rhododendron sp.,Rhododendron sp.,,,,,,,,
+IRE_71,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Ireland,Ireland,2006,Rhododendron sp.,Rhododendron sp.,,,,,,,,
+IRE_75,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Ireland,Ireland,2007,Viburnum sp.,Viburnum sp.,,,,,,,,
+IRE_76,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Europe,Ireland,2007,Rhododendron sp.,Rhododendron sp.,,,,,,,,
+IRE_77,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Ireland,Ireland,2007,Viburnum sp.,Viburnum sp.,,,,,,,,
+IRE_78,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Europe,Ireland,2008,Rhododendron sp.,Rhododendron sp.,,,,,,,,
+IRE_80,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Ireland,Ireland,2009,Rhododendron sp.,Rhododendron sp.,,,,,,,,
+IRE_9,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Ireland,Ireland,2013,Larix sp. ,Larix sp.,,,,,,,,
+IRE_97,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU1,Europe,Europe,Ireland,2010,Larix sp. ,Larix sp. ,,,,,,,,
+IRE_99,,Oomycota,Oomycetes,Peronosporales,Peronosporaceae,Phytophthora,,EU2,Europe,United Kingdom,United Kingdom: Northern Ireland,2010,Larix sp. ,Larix sp. ,,,,,,,,
